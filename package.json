@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/quasi-mollitia-fuga-eum",
-  "version": "5.15.83",
+  "version": "5.15.84",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -621,5 +621,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/quasi-mollitia-fuga-eum/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
